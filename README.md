@@ -10,6 +10,6 @@ The purpose of this project was to help Louise with her fundraising campaign. I 
 I preformed the analysis by filtering the data, and creating a seperate worksheet for each section. Once the data was pulled, I was able to create a graph to visualize the results. It’s important to adjust the formatting so that the chart is easy to read, and the results accurately show the findings. 
 ### Analysis Based on Launch Date
 After analyzing the various launch dates, I found that May was the most successful, while December is the least. The graph below confirms these details:
-! [Theater_Outcomes_vs_Launch.png]
+![Theater_Outcomes_vs_Launch.png]
 ### Analysis Based on Goals
 skgk
